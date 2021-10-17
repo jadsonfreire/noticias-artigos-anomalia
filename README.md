@@ -1,7 +1,7 @@
 # noticias-artigos-anomalia
 Database do artigo intitulado: "OS NOTICIÁRIOS E AS PUBLICAÇÕES CIENTÍFICAS (SCOPUS – WOS) SOBRE RESERVATÓRIOS BRASILEIROS: UMA ANÁLISE DOS PERÍODOS DE ANOMALIA POSITIVA DOCUMENTAL (1999 – 2020)"
 
-As informações submetidas nesse projeto estão relacionadas a confecção de Figuras sobre as principais palavras-chaves dos períodos de anomalia positiva das pesquisas sobre reservatórios no Brasil (Web of Science - SCOPUS)
+As informações submetidas nesse projeto estão relacionadas a confecção de Figuras sobre as principais palavras-chaves dos períodos de anomalia positiva das pesquisas sobre reservatórios no Brasil (Web of Science - SCOPUS). Os períodos de anomalia positiva alcançam os anos de 2002, 2005, 2011, 2014, 2016 e 2018.
 
 O software recomendado para confecção e repetição da metodologia é o NAILS (Network Analysis Interface for Literature Studies). 
 
